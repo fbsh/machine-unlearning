@@ -1,0 +1,3 @@
+- [] first save train and test data in the format of npy (https://github.com/cleverhans-lab/machine-unlearning/blob/master/datasets/purchase/prepare_data.py), 
+- [] write a datasetfile for meta info about the dataset (https://github.com/cleverhans-lab/machine-unlearning/blob/master/datasets/purchase/datasetfile), 
+- [] and slightly modify the loader accordingly (https://github.com/cleverhans-lab/machine-unlearning/blob/master/datasets/purchase/dataloader.py)"
